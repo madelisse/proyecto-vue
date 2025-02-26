@@ -24,5 +24,6 @@
     "eslint-plugin-vue": "^9.30.0",
     "vite": "^6.0.5",
     "vite-plugin-vue-devtools": "^7.6.8"
-  }
+  },
+  "rules": {"vue/multi-word-component-names": "off"}
 }
